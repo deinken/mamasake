@@ -1,0 +1,8 @@
+filename = "SmallPondBaseDrupal-2013-04-08T11-16-54"
+description = ""
+datestamp = "1365445015"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.22"
+sites[0][name] = "SmallPond Base Drupal"
+sites[0][url] = "http://localhost:8888/"

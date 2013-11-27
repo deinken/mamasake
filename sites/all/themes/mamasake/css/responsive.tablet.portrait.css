@@ -1,0 +1,26 @@
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+/* Increase the body font size on small devices */
+html {
+  font-size: 81.3%;
+}
+
+#page-wrap-inner,
+#page-wrap-inner-1,
+#page-wrap-inner-2,
+#views_slideshow_cycle_main_banner_image-block{
+  display: none;
+}
+
+ul.nice-menu li {
+  border-top: 0;
+  float: none; /* LTR */
+  display: block;
+}

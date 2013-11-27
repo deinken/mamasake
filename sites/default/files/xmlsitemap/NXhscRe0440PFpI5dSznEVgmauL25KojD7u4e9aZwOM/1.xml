@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://localhost:8888/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost:8888/no-access</loc><lastmod>2012-03-14T20:23Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://localhost:8888/philosophy</loc><lastmod>2013-11-18T13:58Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/philanthropy</loc><lastmod>2013-11-18T13:58Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/menus</loc><lastmod>2013-11-18T13:46Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/lunch</loc><lastmod>2013-11-18T13:57Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/dinner</loc><lastmod>2013-11-18T13:57Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/beverage</loc><lastmod>2013-11-18T13:56Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/private-parties</loc><lastmod>2013-11-18T13:56Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/media-press</loc><lastmod>2013-11-18T13:55Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/events</loc><lastmod>2013-11-18T13:54Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/contact</loc><lastmod>2013-11-18T13:53Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/page-not-found</loc><lastmod>2012-03-14T20:24Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>http://localhost:8888/team</loc><lastmod>2013-11-18T13:59Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/about</loc><lastmod>2013-11-18T13:45Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost:8888/restaurant</loc><lastmod>2013-11-18T13:59Z</lastmod><changefreq>weekly</changefreq></url>
+</urlset>

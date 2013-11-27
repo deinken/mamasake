@@ -1,0 +1,14 @@
+name = Documentation
+core = 7.x
+package = Features
+dependencies[] = features
+dependencies[] = pathauto
+dependencies[] = taxonomy
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[field][] = node-documentation-body
+features[field][] = node-documentation-field_section
+features[node][] = documentation
+features[taxonomy][] = documentation_sections
+features[views_view][] = documentation

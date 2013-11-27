@@ -1,0 +1,8 @@
+filename = "Mamasake-2013-11-18T05-28-17"
+description = ""
+datestamp = "1384781301"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.23"
+sites[0][name] = "Mamasake"
+sites[0][url] = "http://localhost:8888/"
